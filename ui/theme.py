@@ -8,18 +8,18 @@ import gradio as gr
 APP_THEME = gr.themes.Base().set(
 
     # Backgrounds
-    body_background_fill="#090909",
+    body_background_fill="#D35291",
 
-    block_background_fill="#151515",
+    block_background_fill="#440E0E",
 
-    block_border_color="#2A2A2A",
+    block_border_color="#200E0E",
 
     block_radius="20px",
 
     # Inputs
-    input_background_fill="#101010",
+    input_background_fill="#87B046",
 
-    input_border_color="#2A2A2A",
+    input_border_color="#231319",
 
     input_border_width="1px",
 
@@ -33,7 +33,7 @@ APP_THEME = gr.themes.Base().set(
     block_label_text_color="#DDDDDD",
 
     # Buttons
-    button_primary_background_fill="#C9A227",
+    button_primary_background_fill="#D4AF37",
 
     button_primary_background_fill_hover="#E0B92E",
 
